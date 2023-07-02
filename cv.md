@@ -23,6 +23,10 @@ and options for solving them, to be present at the code review.</p>
 In the work I used all the technologies listed above. Performed 
 tasks related both to the visual correction of sites, and logic, tests.
 </p>
+<h3>Education</h3>
+Graduated from the National University. VN Karazin under which he studied
+at the Institute of Computer Physics and Energy. faculty - computer physics,
+defending a master's degree. I am currently a postgraduate student
 English Level: B2
 <h3>Code Example:</h3>
 \```
